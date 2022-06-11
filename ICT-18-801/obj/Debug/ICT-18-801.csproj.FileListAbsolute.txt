@@ -1,0 +1,12 @@
+C:\Users\AADHIL\Desktop\ICT-18-801\ICT-18-801\ICT-18-801\bin\Debug\ICT-18-801.exe.config
+C:\Users\AADHIL\Desktop\ICT-18-801\ICT-18-801\ICT-18-801\bin\Debug\ICT-18-801.exe
+C:\Users\AADHIL\Desktop\ICT-18-801\ICT-18-801\ICT-18-801\bin\Debug\ICT-18-801.pdb
+C:\Users\AADHIL\Desktop\ICT-18-801\ICT-18-801\ICT-18-801\obj\Debug\ICT-18-801.csprojAssemblyReference.cache
+C:\Users\AADHIL\Desktop\ICT-18-801\ICT-18-801\ICT-18-801\obj\Debug\ICT_18_801.Login.resources
+C:\Users\AADHIL\Desktop\ICT-18-801\ICT-18-801\ICT-18-801\obj\Debug\ICT_18_801.Properties.Resources.resources
+C:\Users\AADHIL\Desktop\ICT-18-801\ICT-18-801\ICT-18-801\obj\Debug\ICT-18-801.csproj.GenerateResource.cache
+C:\Users\AADHIL\Desktop\ICT-18-801\ICT-18-801\ICT-18-801\obj\Debug\ICT-18-801.csproj.CoreCompileInputs.cache
+C:\Users\AADHIL\Desktop\ICT-18-801\ICT-18-801\ICT-18-801\obj\Debug\ICT-18-801.exe
+C:\Users\AADHIL\Desktop\ICT-18-801\ICT-18-801\ICT-18-801\obj\Debug\ICT-18-801.pdb
+C:\Users\AADHIL\Desktop\ICT-18-801\ICT-18-801\ICT-18-801\obj\Debug\Registration_Form.Registration_form.resources
+C:\Users\AADHIL\Desktop\ICT-18-801\ICT-18-801\ICT-18-801\obj\Debug\ICT_18_801.Home.resources
